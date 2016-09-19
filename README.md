@@ -1,5 +1,5 @@
 # Bart Judge
-[About] (#a-little-about-me) | [Education] (#my-education) | [Hobbies & Interests] (#hobbies-&-Interests) | [Experience] (#my-experience)
+[About] (#a-little-about-me) | [Education] (#my-education) | [Hobbies & Interests] (#hobbies-&-interests) | [Experience] (#my-experience)
 
 ## A Little About Me
 
