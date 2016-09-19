@@ -25,13 +25,21 @@ Having studied a fair few subjects, such as; <br>
 
 ## Hobbies and Interests
  When Im not immersed in self-study, I'm partial to the odd sport or two.
- Having seen a friend compete intheir first bodybuilding competion, I have been inspired to enter one in 2017- <b> Instagram account to follow!! <b>
+ Having seen a friend compete intheir first bodybuilding competion, I have been inspired to enter one in 2017- <b> Instagram account to follow!! </b>
 
 ## My Experience
 
 ### Final Project
 
 Cocktales, was a passion project that [Samed] (https://github.com/SamedYalniz), [Joe] (https://github.com/joesweeny), [Oggie] (https://github.com/ogirginc) and myself worked on, as our final project for Makers Academy.
+I utilised the following skill 
+ - Test Driven Developement
+ - RSpec
+ - Ruby on Rails
+ - Capybara
+ - HTML & CSS 
+
+### Other Makers Academy Projects 
 
 ## Contact
 [Linked In] (https://uk.linkedin.com/in/bartholomewjudge)
