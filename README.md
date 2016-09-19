@@ -25,7 +25,7 @@ Having studied a fair few subjects, such as; <br>
 
 ## Hobbies and Interests
  When Im not immersed in self-study, I'm partial to the odd sport or two.
-Instagram account to follow!!
+ Having seen a friend compete intheir first bodybuilding competion, I have been inspired to enter one in 2017- Instagram account to follow!!
 
 ## My Experience
 
