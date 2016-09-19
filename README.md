@@ -6,7 +6,7 @@
 
  From working in digital marketing since 2010 (Email Marketing and Online Lead Generation), to a part-time chemistry degree and years of powerlifting; Judo; and boxing.  
 
- As
+ 
 
 ## My Education
 
@@ -25,7 +25,7 @@ Having studied a fair few subjects, such as; <br>
 
 ## Hobbies and Interests
  When Im not immersed in self-study, I'm partial to the odd sport or two.
- Having seen a friend compete intheir first bodybuilding competion, I have been inspired to enter one in 2017- Instagram account to follow!!
+ Having seen a friend compete intheir first bodybuilding competion, I have been inspired to enter one in 2017- <b> Instagram account to follow!! <b>
 
 ## My Experience
 
