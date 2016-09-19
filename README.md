@@ -17,9 +17,9 @@
 
 
 ## <a id="hobbies">Hobbies & Interests</a>
- When Im not 
+ When Im not immersed in self-study, I'm partail to the odd sport or two.
 Instagram account to follow!!
 
 ## <a id="experience">My Experience</a>
 
-Cocktales, was a passion project that [Samed] (https://github.com/SamedYalniz), [Joe] (https://github.com/joesweeny), [Oggie] (https://github.com/ogirginc) and I
+Cocktales, was a passion project that [Samed] (https://github.com/SamedYalniz), [Joe] (https://github.com/joesweeny), [Oggie] (https://github.com/ogirginc) and myself worked on, as our final project for Makers Academy.
