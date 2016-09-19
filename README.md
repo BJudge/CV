@@ -43,4 +43,4 @@ I utilised the following skill
 ### Other Makers Academy Projects 
 
 ## Contact
-[Linked In] (https://uk.linkedin.com/in/bartholomewjudge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bart Judge-1178B3.svg)](https://uk.linkedin.com/in/bartholomewjudge)
