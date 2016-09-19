@@ -30,7 +30,7 @@ I utilised the following skill
 
 ### Other Makers Academy Projects 
 
-Before Makers Academy I was an Open University addict. <br>
+Before Makers Academy I was a prolific Open University student. <br>
 Having studied a fair few subjects, such as; <br>
   - BA in Business Studies 2.1
   - MBA
