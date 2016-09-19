@@ -16,7 +16,7 @@ Before Makers Academy I was an Open University addict. <br>
 Having studied a fair few subjects, such as; <br>
   - BA in Business Studies 2.1
   - MBA
-  - BSc Chemistry (the first two years) merit
+  - BSc Chemistry <b> merit </b> (the first two years) 
 
  I furthered my passion for learning by starting a Chemistry degree as a part-time, evening hobby, which eventually consumed every spare moment I had. <br>
  While I have only done the first two years of the chemistry degree, I have every intention of finishing it, perhaps evening taking it to masters level. <br>
