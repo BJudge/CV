@@ -1,12 +1,12 @@
 # Bart Judge
-[About] (#a-little-about-me) | [Education] (#my-education) | [Hobbies & Interests] (#hobbies-and-interests) | [Experience] (#my-experience)
+[About] (#a-little-about-me) | [Education] (#my-education) | [Hobbies & Interests] (#hobbies-and-interests) | [Experience] (#my-experience) | [Contact Me] (#contact)
 
 ## A Little About Me
- A self-confessed lifelong learner, and a fitness fanatic, has given me the opportunity to pursue an eclectic range of interests.
+ As a self-confessed lifelong learner, and a fitness fanatic, I have been able to pursue an eclectic range of interests and opportunities.
 
- From working in digital marketing since 2010, to a part-time chemistry degree and years of powerlifting; Judo; and boxing.  
+ From working in digital marketing since 2010 (Email Marketing and Online Lead Generation), to a part-time chemistry degree and years of powerlifting; Judo; and boxing.  
 
-
+ As
 
 ## My Education
 
@@ -26,7 +26,7 @@ Having studied a fair few subjects, such as; <br>
 
 
 ## Hobbies and Interests
- When Im not immersed in self-study, I'm partail to the odd sport or two.
+ When Im not immersed in self-study, I'm partial to the odd sport or two.
 Instagram account to follow!!
 
 ## My Experience
@@ -34,3 +34,6 @@ Instagram account to follow!!
 ### Final Project
 
 Cocktales, was a passion project that [Samed] (https://github.com/SamedYalniz), [Joe] (https://github.com/joesweeny), [Oggie] (https://github.com/ogirginc) and myself worked on, as our final project for Makers Academy.
+
+## Contact
+[Linked In] (https://uk.linkedin.com/in/bartholomewjudge)
