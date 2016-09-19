@@ -1,4 +1,5 @@
-# Bart Judge - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bart Judge-1178B3.svg)](https://uk.linkedin.com/in/bartholomewjudge)
+# Bart Judge 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bart Judge-1178B3.svg)](https://uk.linkedin.com/in/bartholomewjudge)
 [About] (#a-little-about-me) | [Education] (#my-education) | [Hobbies & Interests] (#hobbies-and-interests) | [Experience] (#my-experience) 
 
 ## A Little About Me
