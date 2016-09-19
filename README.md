@@ -1,7 +1,7 @@
 # Bart Judge
-[About] (https://github.com/BJudge/CV#about) | [Education] (https://github.com/BJudge/CV#education) | [Hobbies & Interests] (https://github.com/BJudge/CV#hobbies) | [Experience] (https://github.com/BJudge/CV#experience)
+[About] (#a-little-about-me) | [Education] (https://github.com/BJudge/CV#education) | [Hobbies & Interests] (https://github.com/BJudge/CV#hobbies) | [Experience] (https://github.com/BJudge/CV#experience)
 
-## <a id="about">A Little About Me</a>
+## A Little About Me
 
 
 
