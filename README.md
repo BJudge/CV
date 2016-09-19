@@ -1,5 +1,5 @@
-# Bart Judge
-[About] (#a-little-about-me) | [Education] (#my-education) | [Hobbies & Interests] (#hobbies-and-interests) | [Experience] (#my-experience) | [Contact Me] (#contact)
+# Bart Judge - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bart Judge-1178B3.svg)](https://uk.linkedin.com/in/bartholomewjudge)
+[About] (#a-little-about-me) | [Education] (#my-education) | [Hobbies & Interests] (#hobbies-and-interests) | [Experience] (#my-experience) 
 
 ## A Little About Me
  As a self-confessed lifelong learner, and a fitness fanatic, I have been able to pursue an eclectic range of interests and opportunities.
@@ -41,6 +41,3 @@ I utilised the following skill
  - HTML & CSS 
 
 ### Other Makers Academy Projects 
-
-## Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bart Judge-1178B3.svg)](https://uk.linkedin.com/in/bartholomewjudge)
