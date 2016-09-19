@@ -36,6 +36,8 @@ I utilised the following skill
  - RSpec
  - Ruby on Rails
  - Capybara
+ - postgreSQL
+ - Active Record
  - HTML & CSS 
 
 ### Other Makers Academy Projects 
