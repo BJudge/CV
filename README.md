@@ -14,6 +14,22 @@
 
 In my ambition to become a Software Developer, I have completed the intensive 12 week <a href="http://www.makersacademy.com/" target="_blank"> Makers Academy </a> bootcamp, which I did remotely from the coast of Kent.
 
+## My Experience
+
+### Final Project
+
+Cocktales, was a passion project that [Samed] (https://github.com/SamedYalniz), [Joe] (https://github.com/joesweeny), [Oggie] (https://github.com/ogirginc) and myself worked on, as our final project for Makers Academy.
+I utilised the following skill 
+ - Test Driven Developement
+ - RSpec
+ - Ruby on Rails
+ - Capybara
+ - postgreSQL
+ - Active Record
+ - HTML & CSS 
+
+### Other Makers Academy Projects 
+
 Before Makers Academy I was an Open University addict. <br>
 Having studied a fair few subjects, such as; <br>
   - BA in Business Studies 2.1
@@ -30,16 +46,10 @@ Having studied a fair few subjects, such as; <br>
 
 ## My Experience
 
-### Final Project
+REaD Group - Online Lead Generation & Digital Partnerships
 
-Cocktales, was a passion project that [Samed] (https://github.com/SamedYalniz), [Joe] (https://github.com/joesweeny), [Oggie] (https://github.com/ogirginc) and myself worked on, as our final project for Makers Academy.
-I utilised the following skill 
- - Test Driven Developement
- - RSpec
- - Ruby on Rails
- - Capybara
- - postgreSQL
- - Active Record
- - HTML & CSS 
+DataXcel - Online Lead Generation & Digital Partnerships
 
-### Other Makers Academy Projects 
+Submission Technology - Email Marketing and Affiliate Marketing
+
+Saga Holidays - Email Marketing
