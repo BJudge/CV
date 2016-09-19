@@ -1,12 +1,12 @@
 # Bart Judge
-[About] (#a-little-about-me) | [Education] (https://github.com/BJudge/CV#education) | [Hobbies & Interests] (https://github.com/BJudge/CV#hobbies) | [Experience] (https://github.com/BJudge/CV#experience)
+[About] (#a-little-about-me) | [Education] (#education) | [Hobbies & Interests] (#hobbies-&-Interests) | [Experience] (#experience)
 
 ## A Little About Me
 
 
 
 
-## <a id="education">My Education</a>
+## My Education
 I have completed the intensive 12 week <a href="http://www.makersacademy.com/" target="_blank"> Makers Academy </a>, which I did remotely from the coast of Kent.
 
  As an Open University addict, I have studied a fair few subjects. <br>
@@ -18,11 +18,11 @@ I have completed the intensive 12 week <a href="http://www.makersacademy.com/" t
 
 
 
-## <a id="hobbies">Hobbies & Interests</a>
+## Hobbies & Interests
  When Im not immersed in self-study, I'm partail to the odd sport or two.
 Instagram account to follow!!
 
-## <a id="experience">My Experience</a>
+## My Experience
 
 ### Final Project
 
