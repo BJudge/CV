@@ -1,5 +1,5 @@
 # Bart Judge
-[About] (#a-little-about-me) | [Education] (#my-education) | [Hobbies & Interests] (#hobbies-&-interests) | [Experience] (#my-experience)
+[About] (#a-little-about-me) | [Education] (#my-education) | [Hobbies & Interests] (#hobbies-and-interests) | [Experience] (#my-experience)
 
 ## A Little About Me
 
@@ -18,7 +18,7 @@ I have completed the intensive 12 week <a href="http://www.makersacademy.com/" t
 
 
 
-## Hobbies & Interests
+## Hobbies and Interests
  When Im not immersed in self-study, I'm partail to the odd sport or two.
 Instagram account to follow!!
 
