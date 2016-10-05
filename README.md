@@ -2,7 +2,7 @@
 # Bart Judge
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bart Judge-1178B3.svg)](https://uk.linkedin.com/in/bartholomewjudge)
 
-[About] (#a-little-about-me) | [Education] (#my-education) | [Hobbies & Interests] (#hobbies-and-interests) | [Experience] (#my-experience)
+[About](#a-little-about-me) | [Education](#my-education) | [Hobbies & Interests](#hobbies-and-interests) | [Experience](#my-experience)
 
 ## A Little About Me
  I'm a self-confessed lifelong learner, that has been able to study an eclectic range of subjects.
@@ -19,7 +19,7 @@ In my ambition to become a Software Developer, I completed the intensive 12 week
 
 
  Below are a few of my projects from the course:
- 
+
 
  | Tables        | Are           | Cool  |
  | ------------- |-------------  | ----- |
