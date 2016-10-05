@@ -5,13 +5,14 @@
 [About] (#a-little-about-me) | [Education] (#my-education) | [Hobbies & Interests] (#hobbies-and-interests) | [Experience] (#my-experience)
 
 ## A Little About Me
- As a self-confessed lifelong learner, and a fitness fanatic, I have been able to pursue an eclectic range of interests and opportunities.
+ I'm a self-confessed lifelong learner, that has been able to study an eclectic range of subjects.
+ From two Business degree; and a Chemistry degree; to a coding bootcamp.
 
- From working in digital marketing since 2010 (Email Marketing and Online Lead Generation), to a part-time chemistry degree and years of powerlifting; Judo; and boxing.  
+ I've been working in digital marketing since 2010, primarily  Email Marketing and Online Lead Generation (through sponsored surveys), I've now
 
 ## My Education
 
-###**Makers Academy**
+### **Makers Academy**
 
 In my ambition to become a Software Developer, I completed the intensive 12 week [Makers Academy] bootcamp, which I did remotely, from July 2016 to September 2016.
 [Makers Academy]: http://www.makersacademy.com/
