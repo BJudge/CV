@@ -14,17 +14,18 @@
 ###**Makers Academy**
 
 In my ambition to become a Software Developer, I completed the intensive 12 week [Makers Academy] bootcamp, which I did remotely, from July 2016 to September 2016.
-[Makers Academy]: http://www.makersacademy.com/ 
+[Makers Academy]: http://www.makersacademy.com/
 
 
  Below are a few of my projects from the course:
 
+ | Tables        | Are           | Cool  |
+ | ------------- |:-------------:| -----:|
+ | col 3 is      | right-aligned | $1600 |
+ | col 2 is      | centered      |   $12 |
+ | zebra stripes | are neat      |    $1 |
 
- | Project Name                                                    | Description                                                                                                                                                                                                                                                                                                         | Technologies used                                                     |
-|-----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
-| [My Instagram Clone](https://github.com/BJudge/Final-Instagram) | A copy of the famous photo sharing site, I particularly liked making this as I was able to understand how the follow function works on social networking sites.                                                                                                                                                     | Ruby, Ruby on Rails, Postgresql, Rspec, Capybara                      |
-| [Cocktales](https://github.com/Cocktales/cocktales)             | This was the final project I did at Makers Academy, or more precisely a passion project that [Samed] (https://github.com/SamedYalniz), [Joe] (https://github.com/joesweeny), [Oggie] (https://github.com/ogirginc) and myself worked on. This lacks the follow function I hadn't learn yet from the Instagram clone | RSpec, Ruby on Rails, Capybara, postgresql, Active Record, HTML & CSS |
-|                                                                 |                                                                                     
+
 
 
 ## My Experience
