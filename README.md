@@ -10,7 +10,15 @@
 
 ## My Education
 
-In my ambition to become a Software Developer, I have completed the intensive 12 week <a href="http://www.makersacademy.com/" target="_blank"> Makers Academy </a> bootcamp, which I did remotely from the coast of Kent.
+###**Makers Academy**
+
+In my ambition to become a Software Developer, I completed the intensive 12 week <a href="http://www.makersacademy.com/" target="_blank"> Makers Academy </a> bootcamp, which I did remotely, from July 2016 to September 2016.
+</br>
+ Below are a few of my projects from the course
+ | ** Project Name **| What's it about | Technologies used|
+ |-------------------| ----------------| -----------------|
+ | [My Instagram Clone](https://github.com/BJudge/Final-Instagram)| A copy of the famous photo sharing site, I particularly liked making this as I was able to understand how the follow function works on social networking sites.| Ruby, Ruby on Rails, Postgresql, Rspec, Capybara|  
+ |[Cocktales](https://github.com/Cocktales/cocktales)|
 
 Before Makers Academy I was an Open University addict. <br>
 Having studied a fair few subjects, such as; <br>
