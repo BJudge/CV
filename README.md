@@ -13,7 +13,8 @@
 
 ###**Makers Academy**
 
-In my ambition to become a Software Developer, I completed the intensive 12 week <a href="http://www.makersacademy.com/" target="_blank"> Makers Academy </a> bootcamp, which I did remotely, from July 2016 to September 2016.
+In my ambition to become a Software Developer, I completed the intensive 12 week [Makers Academy] bootcamp, which I did remotely, from July 2016 to September 2016.
+[Makers Academy]: http://www.makersacademy.com/ 
 
 
  Below are a few of my projects from the course:
