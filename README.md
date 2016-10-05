@@ -18,7 +18,7 @@ In my ambition to become a Software Developer, I completed the intensive 12 week
 [Makers Academy]: http://www.makersacademy.com/
 
 
- Below are a few of my projects from the course:
+ Below are a few of my projects from the course.
 
 
  | Tables        | Are           | Cool  |
