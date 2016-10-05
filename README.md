@@ -17,11 +17,11 @@ In my ambition to become a Software Developer, I completed the intensive 12 week
 
 
  Below are a few of my projects from the course
- | ** Project Name **| What's it about | Technologies used|
- |-------------------| ----------------| -----------------|
- | [My Instagram Clone](https://github.com/BJudge/Final-Instagram)| A copy of the famous photo sharing site, I particularly liked making this as I was able to understand how the follow function works on social networking sites.| Ruby, Ruby on Rails, Postgresql, Rspec, Capybara|  
- |[Cocktales](https://github.com/Cocktales/cocktales)|
-
+ | ** Project Name **                   | What's it about                   | Technologies used|
+ |-------------------                   | ----------------                  | -----------------|
+ | [My Instagram Clone](https://github.com/BJudge/Final-Instagram)| A clone of the photo sharing site, I particularly liked making this as I was able to understand how the follow function works on social networking sites.| Ruby, Ruby on Rails, Postgresql, Rspec, Capybara|  
+ |[Cocktales](https://github.com/Cocktales/cocktales)| This was the final project I did at Makers Academy, or more precisely a passion project that [Samed] (https://github.com/SamedYalniz), [Joe] (https://github.com/joesweeny), [Oggie] (https://github.com/ogirginc) and myself worked on. This lacks the follow function I hadn't learn yet from the Instagram clone| Rspec, Ruby, |
+ | TBC                                  |          tbc                      | tbc               |
 ## My Experience
 
 ### Final Project
