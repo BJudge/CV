@@ -68,7 +68,6 @@ Submission Technology - Email Marketing and Affiliate Marketing
 
 Saga Holidays - Email Marketing
 
-Cocktales, was a passion project that [Samed] (https://github.com/SamedYalniz), [Joe] (https://github.com/joesweeny), [Oggie] (https://github.com/ogirginc) and myself worked on, as our final project for Makers Academy.
 
 ## Contact
 
