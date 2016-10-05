@@ -19,7 +19,7 @@ In my ambition to become a Software Developer, I completed the intensive 12 week
  Below are a few of my projects from the course:
 
 
- | Project Name| What's it about| Technologies used|
+ |Project Name |What's it about |Technologies used |
  |---          |---             |---               |
 
 ## My Experience
