@@ -29,11 +29,11 @@ In my ambition to become a Software Developer, I completed the intensive 12 week
 |[Reisstagram] (https://github.com/reissjohnson/instagram-challenge)|An appropriately named Instagram clone.|Ruby, Rails, Postgresql, AWS, TDD using Rspec & Capybara.|
 
 
- | Tables        | Are           | Cool  |
- | ------------- |-------------  | ----- |
- | col 3 is      | right-aligned | $1600 |
- | col 2 is      | centered      |   $12 |
- | zebra stripes | are neat      |    $1 |
+ |Tables|Are| Cool|
+ |-------------|-------------|-----|
+ |col 3 is|right-aligned|$1600|
+ |col 2 is|centered|$12|
+ |zebra stripes|are neat|$1|
 
 
 
