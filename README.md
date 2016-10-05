@@ -35,19 +35,6 @@ In my ambition to become a Software Developer, I completed the intensive 12 week
 
 ## My Experience
 
-### Final Project
-
-Cocktales, was a passion project that [Samed] (https://github.com/SamedYalniz), [Joe] (https://github.com/joesweeny), [Oggie] (https://github.com/ogirginc) and myself worked on, as our final project for Makers Academy.
-I utilised the following skill
- - Test Driven Developement
- - RSpec
- - Ruby on Rails
- - Capybara
- - postgreSQL
- - Active Record
- - HTML & CSS
-
-
 Before Makers Academy I was a prolific Open University student. <br>
 Having studied a fair few subjects, such as; <br>
   - BA in Business Studies 2.1
