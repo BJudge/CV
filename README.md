@@ -22,17 +22,12 @@ In my ambition to become a Software Developer, I completed the intensive 12 week
 
  another test table
 
- |Name:|Description:|Technologies Used:|
-|---|---|---|
-|[Moments](https://github.com/reissjohnson/moments)|A geolocation based IOS app that allows users to record significant events. My final project at Makers Academy.|Swift, Xcode, Facebook API, Apple Mapkit, Firebase & TDD using XCTest, Quick & Nimble.|
-|[MakersBnB] (https://github.com/reissjohnson/makers-bnb)|A basic MVP version of AirBnb built with Ruby & Sinatra.|Ruby, Sinatra, Postgresql, TDD using Rspec & Capybara.|
-|[Reisstagram] (https://github.com/reissjohnson/instagram-challenge)|An appropriately named Instagram clone.|Ruby, Rails, Postgresql, AWS, TDD using Rspec & Capybara.|
 
 
- |Tables|Are| Cool|
+ |Project Name|Description| Technolgies used|
  |-------------|-------------|-----|
- |col 3 is|right-aligned|$1600|
- |col 2 is|centered|$12|
+ |Instagram|right-aligned|$1600|
+ |Cocktales|centered|$12|
  |zebra stripes|are neat|$1|
 
 
