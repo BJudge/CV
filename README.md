@@ -17,6 +17,8 @@ In my ambition to become a Software Developer, I completed the intensive 12 week
 
 
  Below are a few of my projects from the course
+
+ 
  | ** Project Name **                   | What's it about                   | Technologies used|
  |-------------------                   | ----------------                  | -----------------|
  | [My Instagram Clone](https://github.com/BJudge/Final-Instagram)| A clone of the photo sharing site, I particularly liked making this as I was able to understand how the follow function works on social networking sites.| Ruby, Ruby on Rails, Postgresql, Rspec, Capybara|  
