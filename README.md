@@ -24,11 +24,11 @@ In my ambition to become a Software Developer, I completed the intensive 12 week
 
 
 
- |Project Name|Description| Technolgies used|
- |-------------|-------------|-----|
- |Instagram|right-aligned|$1600|
- |Cocktales|centered|$12|
- |zebra stripes|are neat|$1|
+|Project Name|Description| Technolgies used|
+|-------------|-------------|-----|
+|Instagram|right-aligned|$1600|
+|Cocktales|centered|$12|
+|zebra stripes|are neat|$1|
 
 
 
