@@ -21,7 +21,7 @@ In my ambition to become a Software Developer, I completed the intensive 12 week
  Below are a few of my projects from the course:
 
  | Tables        | Are           | Cool  |
- | ------------- |:-------------:| -----:|
+ | ------------- |-------------  | ----- |
  | col 3 is      | right-aligned | $1600 |
  | col 2 is      | centered      |   $12 |
  | zebra stripes | are neat      |    $1 |
