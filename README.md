@@ -62,13 +62,14 @@ Having studied a fair few subjects, such as; <br>
 
 REaD Group - Online Lead Generation & Digital Partnerships
 
-Cocktales, was a passion project that [Samed] (https://github.com/SamedYalniz), [Joe] (https://github.com/joesweeny), [Oggie] (https://github.com/ogirginc) and myself worked on, as our final project for Makers Academy.
-
-## Contact
-[Linked In] (https://uk.linkedin.com/in/bartholomewjudge)
-=======
 DataXcel - Online Lead Generation & Digital Partnerships
 
 Submission Technology - Email Marketing and Affiliate Marketing
 
 Saga Holidays - Email Marketing
+
+Cocktales, was a passion project that [Samed] (https://github.com/SamedYalniz), [Joe] (https://github.com/joesweeny), [Oggie] (https://github.com/ogirginc) and myself worked on, as our final project for Makers Academy.
+
+## Contact
+
+[Linked In] (https://uk.linkedin.com/in/bartholomewjudge)
