@@ -13,21 +13,14 @@
 
 ###**Makers Academy**
 
-
+In my ambition to become a Software Developer, I completed the intensive 12 week <a href="http://www.makersacademy.com/" target="_blank"> Makers Academy </a> bootcamp, which I did remotely, from July 2016 to September 2016.
 
 
  Below are a few of my projects from the course:
 
 
- | Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-
  | Project Name| What's it about| Technologies used|
- |_____________| _______________| _________________|
+ |---|---|---|
  | [My Instagram Clone](https://github.com/BJudge/Final-Instagram)| A clone of the photo sharing site, I particularly liked making this as I was able to understand how the follow function works on social networking sites.| Ruby, Ruby on Rails, Postgresql, Rspec, Capybara|  
  |[Cocktales](https://github.com/Cocktales/cocktales)| This was the final project I did at Makers Academy, or more precisely a passion project that [Samed] (https://github.com/SamedYalniz), [Joe] (https://github.com/joesweeny), [Oggie] (https://github.com/ogirginc) and myself worked on. This lacks the follow function I hadn't learn yet from the Instagram clone| Rspec, Ruby, |
  | TBC                                  |          tbc                      | tbc               |
