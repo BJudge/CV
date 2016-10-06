@@ -25,12 +25,14 @@ In my ambition to develop a wider knowledge base of digital marketing and become
 | [My Instagram Clone](https://github.com/BJudge/Final-Instagram)|A clone of the photo sharing site, I particularly liked making this as I was able to understand how the follow function works on social networking sites.|Ruby, Ruby on Rails, Postgresql, Rspec, Capybara|
 |[Cocktales](https://github.com/Cocktales/cocktales)|This was the final project I did at Makers Academy, or more precisely a passion project that [Samed] (https://github.com/SamedYalniz), [Joe] (https://github.com/joesweeny), [Oggie] (https://github.com/ogirginc) and myself worked on. This lacks the follow function I hadn't learn yet from the Instagram clone|RSpec, Ruby on Rails, Capybara, postgresql, Active Record,HTML & CSS|
 
+#### Post-Course objectives
+I plan on continuing to develop my programming skills by learning Go and Python, during my spare time.
+
 ### Open Universtiy Studies
 
 #### - Business Degree - 2.1
 #### - M.B.A
-#### - Chemsitry Degree (240 points),
-###### where I received a merit for my second year.
+#### - Chemsitry Degree (240 points), where I received a merit for my second year.
 
 
 
