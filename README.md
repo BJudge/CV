@@ -29,21 +29,17 @@ In my ambition to develop a wider knowledge base of digital marketing and become
 
 #### - Business Degree - 2.1
 #### - M.B.A
-#### - Chemsitry Degree (240 points)
-
-
-
-## My Experience
-
-
-
+#### - Chemsitry Degree (240 points),
+###### where I received a merit for my second year.
 
 
 
 ## Hobbies and Interests
  When Im not immersed in self-study, I'm partial to the odd sport or two.
 
- Having seen a friend compete in their first bodybuilding competition, I have been inspired to enter one in 2017- <b> Instagram account to follow!! </b>
+ When time allows I like Boxing and Judo, however I did train as a powerlifter for close to 12 years.
+
+ Having seen a friend compete in their first bodybuilding competition (September 2016), I have been inspired to enter one myself in 2017- <b> Instagram account to follow!! </b>
 
 ## My Experience
 
