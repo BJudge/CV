@@ -8,40 +8,35 @@
  I'm a self-confessed lifelong learner, that has been able to study an eclectic range of subjects.
  From two Business degree; and a Chemistry degree; to a coding bootcamp.
 
- I've been working in digital marketing since 2010, primarily  Email Marketing and Online Lead Generation (through sponsored surveys), I've now
+ I've been working in digital marketing since 2010, primarily  Email Marketing and Online Lead Generation (through sponsored surveys), I've now made the move over to programming the systems I once used.
 
 ## My Education
 
 ### **Makers Academy**
 
-In my ambition to become a Software Developer, I completed the intensive 12 week [Makers Academy] bootcamp, which I did remotely, from July 2016 to September 2016.
+In my ambition to develop a wider knowledge base of digital marketing and become a Software Developer, I completed the intensive 12 week [Makers Academy] bootcamp, which I did remotely, from July 2016 to September 2016.
 [Makers Academy]: http://www.makersacademy.com/
 
 
  Below are a few of my projects from the course.
-
- another test table
-
-
 
 |Project Name| What's it about| Technolgies used|
 |-------------|-------------|-----|
 | [My Instagram Clone](https://github.com/BJudge/Final-Instagram)|A clone of the photo sharing site, I particularly liked making this as I was able to understand how the follow function works on social networking sites.|Ruby, Ruby on Rails, Postgresql, Rspec, Capybara|
 |[Cocktales](https://github.com/Cocktales/cocktales)|This was the final project I did at Makers Academy, or more precisely a passion project that [Samed] (https://github.com/SamedYalniz), [Joe] (https://github.com/joesweeny), [Oggie] (https://github.com/ogirginc) and myself worked on. This lacks the follow function I hadn't learn yet from the Instagram clone|RSpec, Ruby on Rails, Capybara, postgresql, Active Record,HTML & CSS|
 
+### Open Universtiy Studies
 
+#### - Business Degree - 2.1
+#### - M.B.A
+#### - Chemsitry Degree (240 points)
 
 
 
 ## My Experience
 
-Before Makers Academy I was a prolific Open University student. <br>
-Having studied a fair few subjects, such as; <br>
-  - BA in Business Studies 2.1
-  - MBA
-  - BSc Chemistry <b> merit </b> (the first two years)
- I furthered my passion for learning by starting a Chemistry degree as a part-time, evening hobby, which eventually consumed every spare moment I had. <br>
- While I have only done the first two years of the chemistry degree, I have every intention of finishing it, perhaps evening taking it to masters level. <br>
+
+
 
 
 
@@ -52,13 +47,17 @@ Having studied a fair few subjects, such as; <br>
 
 ## My Experience
 
-REaD Group - Online Lead Generation & Digital Partnerships
+REaD Group - Online Lead Generation & Digital Partnerships. Working on [Research Opinion Poll], selling CPL placements and developing traffic partnerships to drive traffic to the site.
 
-DataXcel - Online Lead Generation & Digital Partnerships
+[Research Opinion Poll]: http://www.research-opinion-poll.co.uk/
 
-Submission Technology - Email Marketing and Affiliate Marketing
+DataXcel - Online Lead Generation & Digital Partnerships. Working on [Winnersville], selling CPL/CPA ad units on the sponsored survey path.
 
-Saga Holidays - Email Marketing
+[Winnersville]: https://www.winnersville.co.uk/
+
+Submission Technology - Email Marketing and Affiliate Marketing. Selling Email acquisition broadcast slots on a CPM basis, and placements across CPA cashback sites.
+
+Saga Holidays - Email Marketing. Data profiling and segmenting for Saga Holidays retention marketing campaigns.
 
 
 ## Contact
