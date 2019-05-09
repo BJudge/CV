@@ -1,7 +1,7 @@
 
 # Bart Judge
 <a href="https://uk.linkedin.com/in/bartholomewjudge">
-<img src="images/LinkedIn_logo_initials.png" alt="LinkedIn" width="100">
+<img src="images/LinkedIn_logo_initials.png" alt="LinkedIn" width="80">
 </a>
 
 [About](#a-little-about-me) | [Education](#my-education) | [Hobbies & Interests](#hobbies-and-interests) | [Experience](#my-experience)
@@ -62,4 +62,6 @@ Saga Holidays - Email Marketing. Data profiling and segmenting for Saga Holidays
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bart Judge-1178B3.svg)](https://uk.linkedin.com/in/bartholomewjudge)
+<a href="https://uk.linkedin.com/in/bartholomewjudge">
+<img src="images/LinkedIn_logo_initials.png" alt="LinkedIn" width="80">
+</a>
