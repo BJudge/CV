@@ -49,7 +49,7 @@ I plan on continuing to develop my programming skills by learning Go and Python,
 
 REaD Group - Online Lead Generation & Digital Partnerships. Working on [Research Opinion Poll], selling CPL placements and developing traffic partnerships to drive traffic to the site.
 
-[Research Opinion Poll]: http://www.research-opinion-poll.co.uk/
+[Research Opinion Poll]: https://new.research-opinion-poll.co.uk/
 
 DataXcel - Online Lead Generation & Digital Partnerships. Working on [Winnersville], selling CPL/CPA ad units on the sponsored survey path.
 
