@@ -1,6 +1,8 @@
 
 # Bart Judge
-[![LinkedIn](images/LinkedIn_logo_initials.png)](https://uk.linkedin.com/in/bartholomewjudge)
+<a href="https://uk.linkedin.com/in/bartholomewjudge">
+<img src="images/LinkedIn_logo_initials.png" alt="LinkedIn" width="100">
+</a>
 
 [About](#a-little-about-me) | [Education](#my-education) | [Hobbies & Interests](#hobbies-and-interests) | [Experience](#my-experience)
 
