@@ -3,7 +3,7 @@
 | <a href="https://uk.linkedin.com/in/bartholomewjudge">
 <img src="images/LinkedIn_logo_initials.png" alt="LinkedIn" width="80">
 </a> | <a href="https://stackoverflow.com/users/6495617/bart-judge">
-<img src="images/stack-overflow.png" alt="Stack-Overflow" width="80">
+<img src="images/stack-overflow.png" alt="Stack-Overflow" width="200">
 
 [About](#a-little-about-me) | [Education](#my-education) | [Hobbies & Interests](#hobbies-and-interests) | [Experience](#my-experience)
 
