@@ -26,7 +26,7 @@ In my ambition to develop a wider knowledge base of digital marketing and become
 |Project Name| What's it about| Technolgies used| Deployed to Heroku|
 |-------------|-------------|-----| -----|
 |[Chitter]()|A Twitter clone, using postgresql to persist data|Ruby, Sinatra, HTML, CSS, Rspec, Capybara, postgresql, SQL|
-|[Rock-Paper-Scissors Web App](https://github.com/BJudge/rps-challenge)|A web-app of Rock, Paper, Scissors, that has a random function that acts as player 2/computer. I particularly liked making this as I was able to understand singleton classes and how to store instance variables without sessions or databases. |Ruby, Sinatra, HTML, CSS, Rspec, Capybara|[On Heroku]: https://bart-rps.herokuapp.com/ |
+|[Rock-Paper-Scissors Web App](https://github.com/BJudge/rps-challenge)|A web-app of Rock, Paper, Scissors, that has a random function that acts as player 2/computer. I particularly liked making this as I was able to understand singleton classes and how to store instance variables without sessions or databases. |Ruby, Sinatra, HTML, CSS, Rspec, Capybara|[On Heroku] https://bart-rps.herokuapp.com/ |
 |[Airport Application](https://github.com/BJudge/airport_challenge)|My first weekend challenge, with the key skill being able to abstract airport(s); plane(s); and random weather into classes. |Ruby, Rspec|
 |[Cocktales](https://github.com/Cocktales/cocktales)|This was the final project I did at Makers Academy, or more precisely a passion project that [Samed] (https://github.com/SamedYalniz), [Joe] (https://github.com/joesweeny), [Oggie] (https://github.com/ogirginc) and myself worked on. This lacks the follow function I hadn't learn yet from the Instagram clone|RSpec, Ruby on Rails, Capybara, postgresql, Active Record,HTML & CSS|
 
