@@ -24,7 +24,7 @@ In my ambition to develop a wider knowledge base of digital marketing and become
  Below are a few of my projects from the course.
 
 |Project Name| What's it about| Technolgies used| Deployed to Heroku|
-|-------------|-------------|-----|
+|-------------|-------------|-----| -----|
 |[Chitter]()|A Twitter clone, using postgresql to persist data|Ruby, Sinatra, HTML, CSS, Rspec, Capybara, postgresql, SQL|
 |[Rock-Paper-Scissors Web App](https://github.com/BJudge/rps-challenge)|A web-app of Rock, Paper, Scissors, that has a random function that acts as player 2/computer. I particularly liked making this as I was able to understand singleton classes and how to store instance variables without sessions or databases. |Ruby, Sinatra, HTML, CSS, Rspec, Capybara|
 |[Airport Application](https://github.com/BJudge/airport_challenge)|My first weekend challenge, with the key skill being able to abstract airport(s); plane(s); and random weather into classes. |Ruby, Rspec|
