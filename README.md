@@ -5,7 +5,7 @@
 </a>  <a href="https://stackoverflow.com/users/6495617/bart-judge">
 <img src="images/stack-overflow.png" alt="Stack-Overflow" width="200">
 
-[About](#a-little-about-me) | [Education](#my-education) |[Post-Course Objectives](#post-course-objectives) |[Experience](#my-experience)
+[About](#a-little-about-me) | [Education](#my-education) | [Post-Course Objectives](#post-course-objectives) | [Experience](#my-experience)
 
 ## A Little About Me
 
