@@ -30,7 +30,7 @@ Below are a few of my projects from the course.
 
 ## Post-Course Objectives
 
-I plan on continuing to develop my programming skills by learning clojure and functional programming. I have an interest in MarTech and AdTech, so I also plan on building some personal SaaS projects.
+I plan on continuing to develop my programming skills by learning clojure and functional programming. I also have an interest in MarTech, AdTech and IoT devices, so I also plan on building some personal SaaS and hardware projects.
 
 ## My Experience
 
