@@ -1,6 +1,6 @@
 # Bart Judge
 
- <a href="https://uk.linkedin.com/in/bartholomewjudge">
+ <a href="https://www.linkedin.com/in/bartjudge/">
 <img src="images/LinkedIn_logo_initials.png" alt="LinkedIn" width="80">
 </a>  <a href="https://stackoverflow.com/users/6495617/bart-judge">
 <img src="images/stack-overflow.png" alt="Stack-Overflow" width="200">
@@ -49,7 +49,7 @@ Saga Holidays - Email Marketing. Data profiling and segmenting for Saga Holidays
 
 ## Contact
 
-<a href="https://uk.linkedin.com/in/bartholomewjudge">
+<a href="https://www.linkedin.com/in/bartjudge/">
 <img src="images/LinkedIn_logo_initials.png" alt="LinkedIn" width="80">
 </a>
 
